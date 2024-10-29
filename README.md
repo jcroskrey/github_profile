@@ -5,9 +5,9 @@ I'm John, a Software Engineer with a passion for building and learning. With ove
 
 **Skills**
 ```markdown
-* Programming languages: [Python, JavaScript, Perl, C++, HTML, CSS, Bash]
-* Frameworks: [Node.js, React, Next.js, Django, Flask]
-* Databases: [PostgreSQL, Oracle, SQLite]
+* Programming languages: Python, JavaScript, Perl, C++, HTML, CSS, Bash
+* Frameworks: Node.js, React, Next.js, Django, Flask
+* Databases: PostgreSQL, Oracle, SQLite
 ```
 
 **Hobbies**
