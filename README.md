@@ -11,9 +11,10 @@ I'm John, a Software Engineer with a passion for building and learning. With ove
 ```
 
 **Hobbies**
-```
+```markdown
 * Running 🏃
 * Hiking 🥾
 * Nature Photography 📷🏔️
 * Pickleball 🏓
 * Spikeball
+```
